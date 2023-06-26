@@ -1,4 +1,4 @@
-[Secrets_of_printf.pdf](https://github.com/Hezron-Simumba/printf/Secrets_of_printf.pdf)
+[Secrets_of_printf.pdf](https://github.com/Hezron-Simumba/printf/file/Secrets_of_printf.pdf)
 # printf Project
 
 ## Description
