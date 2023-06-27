@@ -110,4 +110,4 @@ These are all the tasks of this project, the ones that are completed link to the
 
 ### Authors
 * **Hezron Simumba** - [simumbahezron@gmail.com](https://github.com/Hezron-Simumba)
-* **Kenneth Ojogor** - [@gmail.com](https://github.com/MasterGale)
+* **Kenneth Ojogor** - [ojogohkent@gmail.com](https://github.com/MasterGale)
