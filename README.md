@@ -215,7 +215,7 @@ These are all the tasks of this project, the ones that are completed link to the
 
 ### Authors
 * **Hezron Simumba** - [simumbahezron@gmail.com](https://github.com/Hezron-Simumba)
-* **Kenneth Ojogor** - [ojogohkent@gmail.com](https://github.com/MasterGale)
+* **Kenneth Eyinmoro Ojogor** - [ojogohkent@gmail.com](https://github.com/MasterGale)
 >>>>>>> 805010a052b28f3d6e4355ae41883828fff7f8b1
 =======
 * **KENNETH EYINMORO OJOGOR** - [ojogohkent@gmail.com](https://github.com/MasterGale)
